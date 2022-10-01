@@ -1,4 +1,4 @@
-# Yet Another Amazing Linux Distro (NO!)
+# Yet Another Amazing Linux Distro (NOPE!)
 
 # Welcome to GaiaOS
 
